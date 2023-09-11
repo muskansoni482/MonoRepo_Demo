@@ -1,0 +1,26 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "@muskansoni482 <muskan.soni@appinventiv.com>",
+  "homepage": "https://github.com/muskansoni482/MonoRepo_Demo#readme",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskansoni482/MonoRepo_Demo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/utils.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/muskansoni482/MonoRepo_Demo/issues"
+  }
+}
